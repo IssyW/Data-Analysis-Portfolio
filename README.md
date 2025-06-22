@@ -4,11 +4,17 @@ This portfolio contains projects aiming to showcase my data analysis skills. I a
 ## Python
 | Project | Type | Description |
 |---------|------|-------------|
-| Letterboxd | API, Data Analysis | Using Python's Pandas library to call the movie db API in order to extract information about the film's in my persoanl letterboxd history and analyse my watching habits and prefernces|
+| CS50P | Misc. | This repo contains my coursework for Harvard's CS50P course. |
+| Letterboxd | API, Data Analysis | Using Python's Pandas library to call the movie db API in order to extract information about the film's in my persoanl letterboxd history and analyse my watching habits and prefernces.|
 
 
 ## SQL
 | Project | Type | Description |
 |---------|------|-------------|
-|         |      |             |
+| Spotify Streams | Data analysis | This project analyses the user-wide streaming data for Spotify in 2023.|
 
+## Tableau
+| Project | Description |
+|---------|-------------|
+| Citi Bike | Analysis of customer usage data from New York City based bike hire company | 
+| Letterboxd 2024 | Analysis of my personal Letterboxd data for 2024.|

@@ -12,6 +12,7 @@ This portfolio contains projects aiming to showcase my data analysis skills. I a
 | Project | Type | Description |
 |---------|------|-------------|
 | Spotify Streams | Data analysis | This project analyses the user-wide streaming data for Spotify in 2023.|
+| TFL Journeys 2024/2025 | Data Cleaning | This query converts numbers to date format ready for analysis and visualisation. |
 
 ## Tableau
 | Project | Description |

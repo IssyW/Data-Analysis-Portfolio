@@ -17,5 +17,5 @@ This portfolio contains projects aiming to showcase my data analysis skills. I a
 ## Tableau
 | Project | Description |
 |---------|-------------|
-| Citi Bike | Analysis of customer usage data from New York City based bike hire company | 
-| Letterboxd 2024 | Analysis of my personal Letterboxd data for 2024.|
+| [NYC Citi Bike](https://public.tableau.com/app/profile/isabelle.wright2995/viz/NewYorkCitiBikeMostPopularRoutes/NewYorkCitiBike-RoutesbyPopularity) | Analysis of customer usage data from New York City based bike hire company | 
+| [Letterboxd 2024](https://public.tableau.com/app/profile/isabelle.wright2995/viz/LetterboxdDataAnalysis/MyLetterboxdData2024) | Analysis of my personal Letterboxd data for 2024.|

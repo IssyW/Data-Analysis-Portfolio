@@ -5,13 +5,13 @@ This portfolio contains projects aiming to showcase my data analysis skills. I a
 | Project | Type | Description |
 |---------|------|-------------|
 | CS50P | Misc. | This repo contains my coursework for Harvard's CS50P course. |
-| [Letterboxd Analysis](https://github.com/IssyW/Data-Analysis-Portfolio/blob/main/letterboxd.py) | API, Data Analysis | Using Python's Pandas library to call the movie db API in order to extract information about the film's in my persoanl letterboxd history and analyse my watching habits and prefernces.|
+| [Letterboxd History](https://github.com/IssyW/Data-Analysis-Portfolio/blob/main/letterboxd.py) | API, Data Analysis | Using Python's Pandas library to call the movie db API in order to extract information about the film's in my persoanl letterboxd history and analyse my watching habits and prefernces.|
 
 
 ## SQL
 | Project | Type | Description |
 |---------|------|-------------|
-| Spotify Streams | Data analysis | This project analyses the user-wide streaming data for Spotify in 2023.|
+| [Spotify Streams](https://github.com/IssyW/Data-Analysis-Portfolio/blob/main/spotify_streams_2023.sql) | Data analysis | This project analyses the user-wide streaming data for Spotify in 2023.|
 | TFL Journeys 2024/2025 | Data Cleaning | This query converts numbers to date format ready for analysis and visualisation. |
 
 ## Tableau

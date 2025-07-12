@@ -5,7 +5,7 @@ This portfolio contains projects aiming to showcase my data analysis skills. I a
 | Project | Type | Description |
 |---------|------|-------------|
 | CS50P | Misc. | This repo contains my coursework for Harvard's CS50P course. |
-| [https://github.com/IssyW/Data-Analysis-Portfolio/blob/main/letterboxd.py](Letterboxd) | API, Data Analysis | Using Python's Pandas library to call the movie db API in order to extract information about the film's in my persoanl letterboxd history and analyse my watching habits and prefernces.|
+| [Letterboxd Analysis](https://github.com/IssyW/Data-Analysis-Portfolio/blob/main/letterboxd.py) | API, Data Analysis | Using Python's Pandas library to call the movie db API in order to extract information about the film's in my persoanl letterboxd history and analyse my watching habits and prefernces.|
 
 
 ## SQL

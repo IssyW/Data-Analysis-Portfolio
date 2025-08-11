@@ -6,7 +6,7 @@ This portfolio contains projects aiming to showcase my data analysis skills. I a
 |---------|------|-------------|
 | CS50P | Misc. | This repo contains my coursework for Harvard's CS50P course. |
 | [Letterboxd History](https://github.com/IssyW/Data-Analysis-Portfolio/blob/main/letterboxd.py) | API, Data Analysis | Using Python's Pandas library to call the movie db API in order to extract information about the film's in my persoanl letterboxd history and analyse my watching habits and prefernces.|
-| Honey Production | Forecast, Linear Regression Model | This file creates a linear regression model on honey production data from 2013 - 2023 to vizualise how the total production has changed over time, and forecasts production up to 2050.
+| [Honey Production](https://github.com/IssyW/Data-Analysis-Portfolio/blob/main/honey_production) | Forecast, Linear Regression Model | This file creates a linear regression model on honey production data from 2013 - 2023 to vizualise how the total production has changed over time, and forecasts production up to 2050.
 
 
 ## SQL

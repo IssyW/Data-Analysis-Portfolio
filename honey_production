@@ -1,0 +1,48 @@
+import codecademylib3_seaborn
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn import linear_model
+
+df = pd.read_csv("https://content.codecademy.com/programs/data-science-path/linear_regression/honeyproduction.csv")
+# Handle error if file is empty/not loaded correctly
+if df.empty:
+  print("Data failed to load")
+
+#Get mean production per year as a new data set
+prod_per_year = df.groupby('year').totalprod.mean().reset_index()
+
+# Year column of aggregated data set
+X = prod_per_year["year"].values.reshape(-1, 1)
+
+# Total production column in aggregated data set
+y = prod_per_year["totalprod"]
+
+# Plot historical honey prodcution
+plt.scatter(X, y)
+
+regr = linear_model.LinearRegression()
+
+# Fit model to data
+regr = regr.fit(X, y)
+
+print(regr.coef_[0], regr.intercept_)
+
+y_predict = regr.predict(X)
+
+plt.plot(X, y_predict)
+plt.xlabel("Year")
+plt.ylabel("Total Production")
+plt.title("Honey Production Over Time")
+plt.show()
+
+# Predict future honey production
+X_future = np.array(range(2013, 2050)).reshape(-1, 1)
+future_predict = regr.predict(X_future)
+
+plt.plot(X_future, future_predict)
+plt.show()
+
+# Print final prediction figure
+print(f"Predicted honey production in 2050: {future_predict[-1]}")
+
